@@ -1,5 +1,5 @@
 # Analyzing-International-Debt-Statistics
-Humans take debts to manage their necessities. A country may also take debt to manage its economy. For example, infrastructure spending is one costly ingredient required for a country's citizens to lead comfortable lives. The World Bank is the organization that provides debt to countries.
+Humans take debts to manage their necessities. A country may also take debt to drive its economy. For example, infrastructure spending is one costly ingredient required for a country's citizens to lead comfortable lives. The World Bank is the organization that provides debt to countries.
 
 ***
 
