@@ -1,0 +1,22 @@
+# Project Tasks
+1. Inspecting The World Bank's international debt data set
+2. Finding the number of distinct countries
+3. Extracting the unique debt indicators
+4. Finding the total amount of debt owed by the different countries
+5. Finding the country owing the highest debt
+6. Determining the average amount of debt across indicators
+7. Finding the country with the highest amount of principal repayments
+8. Finding the debt indicator that appears most frequently
+9. Getting the maximum amount of debt that each country owes
+
+***
+
+# Solutions
+1. Inspecting The World Bank's international debt data set
+SELECT *
+FROM international_debt
+LIMIT 10;
+
+***
+
+2. Finding the number of distinct countries
