@@ -83,7 +83,7 @@ LIMIT 10;
 7. Finding the country with the highest amount of principal repayments
 We can see that the indicator DT.AMT.DLXF.CD tops the chart of average debt. 
 This category includes repayment of long-term debts.
-We want to investigate this a bit more so as to find out which country owes the highest amount of debt in the category of long term debts.
+We want to investigate this a bit more to find out which country owes the highest amount of debt in the category of long term debts.
 
 SELECT 
     country_name, 
