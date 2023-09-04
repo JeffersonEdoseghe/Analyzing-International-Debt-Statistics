@@ -13,9 +13,11 @@
 
 # Solutions
 1. Inspecting The World Bank's international debt data set
+```sql
 SELECT *
 FROM international_debt
 LIMIT 10;
+```
 
 ***
 
